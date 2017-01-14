@@ -1,0 +1,14 @@
+Tipologia carte:
+Comandante 
+Artefatto
+Abilità
+Alleato
+
+"Comandante"
+Il comandante si sceglie prima dell'inizio della partita. 
+La vita del comandante varia da comandante a comandante. 
+Il comandante scelto quando subisce danni perde punti vita.
+Quando la vita del proprio  comandante scende a 0 si perde la partita.
+Il comandante ha un attributo.
+Il comandante puo' avere una abilità personale.
+Il comandante quando ha (X) vita l'avversario rinviene uno o piu' artefatti dalla pila degli artefatti.
